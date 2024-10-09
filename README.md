@@ -1,0 +1,2 @@
+# scriptingBash
+scripts en bash 
